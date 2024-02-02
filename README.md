@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/ortalyarts/frontendmentor-news-homepage
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://frontendmentor-news-homepage-seven.vercel.app
 
 ## My process
 
